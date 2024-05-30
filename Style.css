@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+*body{
+    background-color: blue;
+}
+
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: left;
+    font-style: italic;
+}
+
+img{
+    height: 140px;
+    width: 175px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: cyan;
+}
+
+
