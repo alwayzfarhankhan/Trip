@@ -3,13 +3,13 @@
     padding: 0;
     font-family: sans-serif;
     color: white;
+    text-align: center;
 }
 
 h1{
     color: aqua;
     background-color: black;
     font-style: italic;
-    text-align: left;
     text-decoration: solid;
 }
 

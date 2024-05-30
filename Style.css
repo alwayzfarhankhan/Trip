@@ -4,6 +4,7 @@
     font-family: sans-serif;
     color: white;
     background-color: #0f1111;
+    text-align: center;
 }
 
 *body{
@@ -13,7 +14,6 @@
 h1{
     color: aqua;
     background-color: black;
-    text-align: left;
     font-style: italic;
 }
 
@@ -29,6 +29,5 @@ a{
 }
 
 h3{
-    text-align: left;
     color: aqua;
 }
