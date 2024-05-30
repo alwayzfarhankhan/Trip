@@ -2,6 +2,8 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
+    color: white;
+    background-color: #0f1111;
 }
 
 *body{
@@ -26,4 +28,7 @@ a{
     background-color: cyan;
 }
 
-
+h3{
+    text-align: left;
+    color: aqua;
+}
